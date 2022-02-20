@@ -1,16 +1,14 @@
 <h2> Hi, I'm Osmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/dc4UxTw2ueAbm/giphy.gif" width="230">
-<p><em> telecommunications Enginner at  <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute </a>
-</br>Web and Software Developer</em></p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🎓 &nbsp; Communication and Electronics student at <a href="https://www.esimez.ipn.mx/"> the National Polytechnic Institute. </a>
+- 💼 &nbsp; Full Stack and Frontend Developer.
+- 🌱 &nbsp; Responsive Design Enthusiast.
+- ✍️ &nbsp; Watching anime and playing video games as hobbies/side activities.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
