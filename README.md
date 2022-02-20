@@ -45,6 +45,6 @@
 
 ---
 
-<img aling='center' src="https://i.pinimg.com/564x/6b/6e/52/6b6e52ee6be7e5fe4c152f73694853ef.jpg" width="442" height="103" />
+<img aling='center' src="https://i.pinimg.com/564x/6b/6e/52/6b6e52ee6be7e5fe4c152f73694853ef.jpg" />
 
 
