@@ -1,5 +1,5 @@
 <h2> Hi, I'm Osmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://tenor.com/view/aqua-gif-21201616" width="230">
+<img align='right' src="<div class="tenor-gif-embed" data-postid="21201616" data-share-method="host" data-aspect-ratio="0.746875" data-width="100%"><a href="https://tenor.com/view/aqua-gif-21201616">Aqua GIF</a>from <a href="https://tenor.com/search/aqua-gifs">Aqua GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="230">
 <p><em> telecommunications Enginner at  <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web and Software Developer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
