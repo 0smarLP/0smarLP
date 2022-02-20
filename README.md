@@ -1,5 +1,5 @@
 <h2> Hi, I'm Osmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://tenor.com/view/aqua-gif-21201616" width="230">
 <p><em> telecommunications Enginner at  <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web and Software Developer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
