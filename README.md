@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Communication and Electronics student at <a href="https://www.esimez.ipn.mx/"> the National Polytechnic Institute. </a>
+- 🎓 &nbsp; Communication and Electronics student at the <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute. </a>
 - 💼 &nbsp; Full Stack and Frontend Developer.
 - 🌱 &nbsp; Responsive Design Enthusiast.
 - ✍️ &nbsp; Watching anime and playing video games as hobbies/side activities.
