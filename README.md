@@ -45,7 +45,6 @@
 
 ---
 
-<img aling='center' src="![1](https://user-images.githubusercontent.com/99296482/154868131-60873528-00ee-415d-b173-ec9874224fa8.jpg)
-" width="200">
+<img aling='center' src="![1](https://user-images.githubusercontent.com/99296482/154868131-60873528-00ee-415d-b173-ec9874224fa8.jpg)" >
 
 
