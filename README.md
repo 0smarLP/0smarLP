@@ -1,7 +1,7 @@
 <h2> Hi, I'm Osmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/dc4UxTw2ueAbm/giphy.gif" width="230">
-<p><em> telecommunications Enginner at  <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web and Software Developer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p><em> telecommunications Enginner at  <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute </a>
+</br>Web and Software Developer</em></p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
