@@ -24,11 +24,11 @@ const thai = {
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; Java | C++ | C# 
+- 🌐 &nbsp; HTML | CSS | Bootstrap | Flexbox | Grid | Angular  
+- 🛢 &nbsp; MySQL | mongoDB 
+- 🔧 &nbsp; Unity | Unreal Engine 4 | Visual Studio code | Sublime Text 3 | Git
+- 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier
 
 
 <br>
