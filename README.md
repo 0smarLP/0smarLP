@@ -27,9 +27,8 @@ const thai = {
 - 💻 &nbsp; Java | C++ | C# 
 - 🌐 &nbsp; HTML | CSS | Bootstrap | Flexbox | Grid | Angular  
 - 🛢 &nbsp; MySQL | mongoDB 
-- 🔧 &nbsp; Unity | Unreal Engine 4 | Visual Studio code | Sublime Text 3 | Git
+- 🔧 &nbsp; Unity | Unreal Engine 4 | Visual Studio code | Sublime Text 3 
 - 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier
-
 
 <br>
 
