@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I am currently learning web application development.
 - 🤔 &nbsp; Explore new technologies and develop quick solutions.
 - 🎓 &nbsp; Communication and Electronics student at the <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute. </a>
 - 💼 &nbsp; Full Stack and Frontend Developer.
