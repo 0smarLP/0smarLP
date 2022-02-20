@@ -43,7 +43,7 @@ const thai = {
 
 <br>
 
-<img src="https://media.giphy.com/media/cT6uTXSKabqcE/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+ <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
