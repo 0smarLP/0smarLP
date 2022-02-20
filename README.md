@@ -45,6 +45,6 @@
 
 ---
 
-<img aling='center' src="https://www.shutterstock.com/image-vector/manga-style-japanese-cartoon-comic-concept-2023815770" />
+<img aling='center' src=/>
 
 
