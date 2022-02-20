@@ -22,6 +22,17 @@ const thai = {
 ```
 <br>
 
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
+
+<br>
+
 ### 🔨 Languages and Tools:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -34,6 +45,8 @@ const thai = {
 
 <a href='https://www.linkedin.com/in/osmardevlopez/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/Osmi_Dev'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+
+
 
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
