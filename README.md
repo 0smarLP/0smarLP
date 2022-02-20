@@ -45,6 +45,6 @@
 
 ---
 
-<img src="![1](https://user-images.githubusercontent.com/99296482/154867782-4a61ed13-674b-4991-b8b9-dbb95a56d8a6.jpg)"  width="442">
+<img src="![1](https://user-images.githubusercontent.com/99296482/154867782-4a61ed13-674b-4991-b8b9-dbb95a56d8a6.jpg)"  width="300">
 
 
