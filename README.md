@@ -3,9 +3,6 @@
 <p><em> telecommunications Enginner at  <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute </a>
 </br>Web and Software Developer</em></p>
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<br>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
