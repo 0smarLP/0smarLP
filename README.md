@@ -45,6 +45,6 @@
 
 ---
 
-<img aling='center' 
+<br>
 
 
