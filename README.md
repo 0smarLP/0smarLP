@@ -11,9 +11,9 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
-
+<br>
 <h4> 🌐 Languages Front-end:</h4>
-
+<br>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img align="left" alt="html" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img align="left" alt="css" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"></a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JS" height ="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
@@ -24,15 +24,19 @@
 
 <br>
 <h4> 🖲 Languages BackEnd: <h4>
-
+<br>
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="laravel" height ="38px" src="https://laravel.com/img/logomark.min.svg"></a>
 <a href="https://laravel-livewire.com/" target="_blank"> <img align="left" alt="livewire" height ="40px" src="https://laravel-livewire.com/img/underwater_jelly.svg"></a>
 
 
 <br>
 
-### 🔨 Tools:
+<h4> 🔨 Tools: <h4>
+ <br>
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="npm" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
 
 
 
