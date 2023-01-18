@@ -24,7 +24,7 @@
 
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="laravel" height ="38px" src="https://laravel.com/img/logomark.min.svg"></a>
 <a href="https://laravel-livewire.com/" target="_blank"> <img align="left" alt="livewire" height ="40px" src="https://laravel-livewire.com/img/underwater_jelly.svg"></a>
-<a href="" target="_blank"> <img align="left" alt="" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="tailwind CSS" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
 <a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
 <a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
 <a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
