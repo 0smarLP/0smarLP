@@ -13,7 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Linux | Windows  
-- 🔧 &nbsp; Unity | Unreal Engine 4 |
+- 🔧 &nbsp; Unity | Unreal Engine 4 
 - 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier | Figma
 
 <br>
