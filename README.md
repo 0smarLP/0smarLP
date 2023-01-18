@@ -31,7 +31,7 @@
 <a href="https://laravel-livewire.com/" target="_blank"> <img align="left" alt="livewire" height ="40px" src="https://laravel-livewire.com/img/underwater_jelly.svg"></a>
  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img align="left" alt="php" height ="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></a>
  <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="mysql" height ="40px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"></a>
- <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img align="left" alt="mongo" height ="40px" src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"></a>
  <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
  <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
 
