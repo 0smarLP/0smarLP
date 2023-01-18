@@ -30,11 +30,11 @@
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="laravel" height ="38px" src="https://laravel.com/img/logomark.min.svg"></a>
 <a href="https://laravel-livewire.com/" target="_blank"> <img align="left" alt="livewire" height ="40px" src="https://laravel-livewire.com/img/underwater_jelly.svg"></a>
  <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img align="left" alt="php" height ="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></a>
+ <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="mysql" height ="40px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"></a>
  <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
  <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
  <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
- <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
- <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
+
 
  
 
@@ -46,6 +46,7 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="npm" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+  <a href="" target="_blank"> <img align="left" alt="light" height ="40px" src="https://global-uploads.webflow.com/6157613743c4a96462bb6cc6/624e19a2c9ed4e3adda3182e_google%20lighthouse.png"></a>
 
 
 
