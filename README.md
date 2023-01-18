@@ -24,7 +24,7 @@
 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img align="left" alt="html" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img align="left" alt="css" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JS" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JS" height ="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
 
 
 
