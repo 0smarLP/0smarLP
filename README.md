@@ -17,7 +17,6 @@
 - 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier | Figma
 
 <br>
-<br>
 <h4> 🌐 Languages Front-end:</h4>
 <br>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img align="left" alt="html" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
