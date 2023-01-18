@@ -1,5 +1,6 @@
 <h2> Hi, I'm Osmar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.pinimg.com/564x/87/4b/49/874b4950fbd37540ba8e2e9ddcb2f2ee.jpg" width="260">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=E471C3&width=435&lines=Looking+for+new+learning" alt="Typing SVG" /></a>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
