@@ -5,24 +5,24 @@
 
 - 🔭 &nbsp; I am currently learning web application development.
 - 🤔 &nbsp; Explore new technologies and develop quick solutions.
-- 🎓 &nbsp; Communication and Electronics student at the <a href="https://www.esimez.ipn.mx/"> National Polytechnic Institute. </a>
-- 💼 &nbsp; Full Stack and Frontend Developer.
+- 💼 &nbsp; Full Stack Developer.
 - 🌱 &nbsp; Responsive Design Enthusiast.
 - ✍️ &nbsp; Watching anime and playing video games as hobbies/side activities.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | C# 
-- 🌐 &nbsp; HTML | CSS | Bootstrap | SASS | PHP | MVC  
-- 🛢 &nbsp; MySQL | mongoDB 
-- 🔧 &nbsp; Unity | Unreal Engine 4 | Visual Studio code | Sublime Text 3 
-- 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier
+- 💻 &nbsp; Linux | Windows  
+- 🌐 &nbsp; HTML | CSS | JS | PHP | Laravel | Livewire | Bootstrap | Tailwind CSS | SASS  
+- 🛢  &nbsp; MySQL | mongoDB 
+- 🔧 &nbsp; Unity | Unreal Engine 4 |
+- 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier | Figma
 
 <br>
 
 ### 🔨 Languages and Tools:
 
+<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
