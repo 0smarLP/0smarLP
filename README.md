@@ -30,7 +30,7 @@
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="npm" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></a>
 <a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="SASS" height ="38px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"></a>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img align="left" alt="html" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img align="left" alt="css" height ="38px" src="https://es.wikipedia.org/wiki/CSS#/media/Archivo:CSS3_logo_and_wordmark.svg"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img align="left" alt="css" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"></a>
 
 <a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
 
