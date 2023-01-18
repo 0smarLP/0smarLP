@@ -12,6 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 <br>
+<br>
 <h4> 🌐 Languages Front-end:</h4>
 <br>
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img align="left" alt="html" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
@@ -23,6 +24,7 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="tailwind CSS" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
 
 <br>
+<br>
 <h4> 🖲 Languages BackEnd: <h4>
 <br>
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="laravel" height ="38px" src="https://laravel.com/img/logomark.min.svg"></a>
@@ -30,7 +32,7 @@
 
 
 <br>
-
+<br>
 <h4> 🔨 Tools: <h4>
  <br>
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="npm" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></a>
@@ -43,7 +45,7 @@
 
 
 <br>
-
+<br>
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center"> 
