@@ -25,12 +25,13 @@
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="laravel" height ="38px" src="https://laravel.com/img/logomark.min.svg"></a>
 <a href="https://laravel-livewire.com/" target="_blank"> <img align="left" alt="livewire" height ="40px" src="https://laravel-livewire.com/img/underwater_jelly.svg"></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="tailwind CSS" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
-<a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" height ="38px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" height ="38px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
 <a href="https://vitejs.dev/" target="_blank"> <img align="left" alt="Vite" height ="38px" src="https://vitejs.dev/logo.svg"></a>
 <a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="npm" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></a>
-<a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
-<a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
-<a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
+<a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="SASS" height ="38px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img align="left" alt="html" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img align="left" alt="css" height ="38px" src="https://es.wikipedia.org/wiki/CSS#/media/Archivo:CSS3_logo_and_wordmark.svg"></a>
+
 <a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
 
 
