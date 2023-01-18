@@ -29,6 +29,14 @@
 <br>
 <a href="https://laravel.com/" target="_blank"> <img align="left" alt="laravel" height ="38px" src="https://laravel.com/img/logomark.min.svg"></a>
 <a href="https://laravel-livewire.com/" target="_blank"> <img align="left" alt="livewire" height ="40px" src="https://laravel-livewire.com/img/underwater_jelly.svg"></a>
+ <a href="https://www.php.net/manual/es/intro-whatis.php" target="_blank"> <img align="left" alt="php" height ="40px" src=" https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></a>
+ <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
+ <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
+ <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
+ <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
+ <a href="" target="_blank"> <img align="left" alt="" height ="40px" src=""></a>
+
+ 
 
 
 <br>
