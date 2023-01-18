@@ -26,7 +26,7 @@
 <a href="https://laravel-livewire.com/" target="_blank"> <img align="left" alt="livewire" height ="40px" src="https://laravel-livewire.com/img/underwater_jelly.svg"></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="tailwind CSS" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" height ="38px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
-<a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
+<a href="https://vitejs.dev/" target="_blank"> <img align="left" alt="Vite" height ="38px" src="https://vitejs.dev/logo.svg"></a>
 <a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
 <a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
 <a href="" target="_blank"> <img align="left" alt="" height ="38px" src=""></a>
