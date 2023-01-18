@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-## 🌐 Languages Front-end:
+🌐<h4> Languages Front-end:</h4>
 
 <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img align="left" alt="html" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></a>
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"> <img align="left" alt="css" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png"></a>
