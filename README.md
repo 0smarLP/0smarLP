@@ -46,19 +46,6 @@
 
 <br>
 <br>
-<h4> 🔨 Tools: <h4>
- <br>
-<a href="https://www.npmjs.com/" target="_blank"> <img align="left" alt="npm" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-  <a href="" target="_blank"> <img align="left" alt="light" height ="40px" src="https://global-uploads.webflow.com/6157613743c4a96462bb6cc6/624e19a2c9ed4e3adda3182e_google%20lighthouse.png"></a>
-
-
-
-
-
-
-<br>
 <br>
 <h3> 🤝🏻 Connect with Me </h3>
 
