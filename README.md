@@ -13,9 +13,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Linux | Windows  
-- 🔧 &nbsp; Unity | Unreal Engine 4 
-- 🖥 &nbsp; Aseprite | Illustrator | Photoshop | Adobe Premier | Figma
+- 💻 &nbsp; Linux | Windows | Dockers
+- 🖥 &nbsp; Illustrator | Photoshop | Figma
 
 <br>
 <h4> 🌐 Languages Front-end:</h4>
@@ -25,6 +24,7 @@
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JS" height ="34px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></a>
 <a href="https://vitejs.dev/" target="_blank"> <img align="left" alt="Vite" height ="38px" src="https://vitejs.dev/logo.svg"></a>
 <a href="https://getbootstrap.com/" target="_blank"><img align="left" alt="Bootstrap" height ="38px" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></a>
+<a href="https://vuejs.org/" target="_blank"><img align="left" alt="VueJs" height ="38px" src="https://img2.freepng.es/20180701/puh/kisspng-vue-js-javascript-library-react-angularjs-js-5b395da4146f70.8054310515304861800837.jpg"></a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="tailwind CSS" height ="38px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></a>
 
 <br>
